@@ -1,0 +1,23 @@
+<mjml>
+    <mj-head>
+        <mj-font name="Raleway"
+                 href="https://fonts.googleapis.com/css?family=Raleway" />
+    </mj-head>
+    <mj-body>
+        <mj-section>
+            <mj-column>
+                <mj-text align="center">
+                    <h2>Prezado Usuario #nameUsuario</h2>
+                    <p>Você solicitou recuperação de senha da sua conta Home Money Manager</p>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section>
+            <mj-column>
+                <mj-button background-color="#0092FF" color="white" href="#dsLink">
+                    Clique Aqui
+                </mj-button>
+            </mj-column>
+        </mj-section>
+    </mj-body>
+</mjml>
